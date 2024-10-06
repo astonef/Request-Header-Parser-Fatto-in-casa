@@ -30,3 +30,13 @@ code {
 a {
 	color: #2574A9;
 }
+
+.titolo {
+	text-align: center;
+	color: blueviolet;
+	font-size: 64px;
+	margin-bottom: 80px;
+	margin-top: 0px;
+	white-space: nowrap; 
+  }
+ 
