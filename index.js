@@ -27,7 +27,7 @@ app.get('/api/whoami', function (req, res) {
   const protocol = req.protocol; 
   res.json({
     ipaddress: ipaddress,
-    lingua: language,
+    language: language,
     software: software,
     metodo: method,
     protocollo: protocol
